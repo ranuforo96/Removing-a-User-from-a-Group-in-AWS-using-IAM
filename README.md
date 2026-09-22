@@ -1,5 +1,6 @@
 # Removing-a-User-from-a-Group-in-AWS-using-IAM
 Detailed walkthrough of removing a user from a group
+
 First you go into users 
 <img width="960" height="1080" alt="image" src="https://github.com/user-attachments/assets/095deb8e-7bbe-41f2-a99e-7d954ee4860d" />
 Currently the IAM user has access to the group admin
